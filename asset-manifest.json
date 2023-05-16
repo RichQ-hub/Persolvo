@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Persolvo/static/css/main.5d1c9fce.css",
+    "main.js": "/Persolvo/static/js/main.0fabdca7.js",
+    "static/js/787.d567695d.chunk.js": "/Persolvo/static/js/787.d567695d.chunk.js",
+    "static/media/DaysOne-Regular.ttf": "/Persolvo/static/media/DaysOne-Regular.b34debd26d5857b69192.ttf",
+    "static/media/github-logo.svg": "/Persolvo/static/media/github-logo.ebd452bf402237ef25876cdcac686676.svg",
+    "index.html": "/Persolvo/index.html",
+    "static/media/play-solid.svg": "/Persolvo/static/media/play-solid.457675025692cbb949620786ae879717.svg",
+    "static/media/wall.svg": "/Persolvo/static/media/wall.4a060e96b40e94398d7b0ac3cfa8fd92.svg",
+    "static/media/eraser.svg": "/Persolvo/static/media/eraser.2501ae288b2a834cd6395f30382a5545.svg",
+    "static/media/finish.svg": "/Persolvo/static/media/finish.a7749b88bfd06d307f853519f2ef21f8.svg",
+    "static/media/start.svg": "/Persolvo/static/media/start.9a2fffc14da6d8ba372ce4e093378daf.svg",
+    "static/media/logo.svg": "/Persolvo/static/media/logo.fd32147b145ed83ca3dc5725de00f138.svg",
+    "static/media/forest.svg": "/Persolvo/static/media/forest.5a670fdcaff0413d12bbc45a67b60015.svg",
+    "static/media/treasure.svg": "/Persolvo/static/media/treasure.9295657404c4c65916c06cffd5983578.svg",
+    "main.5d1c9fce.css.map": "/Persolvo/static/css/main.5d1c9fce.css.map",
+    "main.0fabdca7.js.map": "/Persolvo/static/js/main.0fabdca7.js.map",
+    "787.d567695d.chunk.js.map": "/Persolvo/static/js/787.d567695d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d1c9fce.css",
+    "static/js/main.0fabdca7.js"
+  ]
+}
